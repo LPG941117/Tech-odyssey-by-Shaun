@@ -29,10 +29,4 @@ To explore my learning journal and notes, simply browse the repository. You can 
 
 While this repository primarily serves as my personal learning space, I welcome contributions, suggestions, and feedback. If you come across errors, want to discuss a particular topic, or have ideas to enhance my learning experience, please feel free to open an issue or discussion. Let's learn together and make this journal a collaborative learning hub!
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE). You are free to use the content, share, and modify it for your own learning purposes.
-
----
-
 Thank you for visiting my learning journal repository. Let's embark on a journey of lifelong learning and expand our horizons together!
